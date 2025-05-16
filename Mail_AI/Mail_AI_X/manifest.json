@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "MailAI Trigger",
+  "version": "1.0",
+  "description": "Trigger MailAI backend",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["alarms", "storage"],
+"host_permissions": ["http://127.0.0.1:5001/"]
+
+}
