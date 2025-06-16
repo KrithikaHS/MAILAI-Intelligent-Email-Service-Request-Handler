@@ -41,6 +41,6 @@ bash
 ```python app.py```
 
 Build Chrome Extension
--Open Chrome and go to chrome://extensions/.
--Enable Developer Mode.
--Click Load Unpacked and select the extension folder.
+- Open Chrome and go to chrome://extensions/.
+- Enable Developer Mode.
+- Click Load Unpacked and select the extension folder.
